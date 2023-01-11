@@ -1,0 +1,9 @@
+Q1 Insert the nav component
+Q2 Insert the header component
+Q3 Insert the section component
+Q4 Insert figure component
+Q5 Insert the list
+Q6 Insert media - article, video,img and audio
+Q7 Insert the "Contact Me" form
+Q8 Insert the footer
+
